@@ -1,4 +1,5 @@
-APA102 is a RGB LED with a built-in controller. This library allows you to control an LED, a strip and a matrix formed from more LEDS. 
+APA102 is a RGB LED with a built-in controller. This library allows you to control an LED, a strip and a matrix formed from more LEDS.
+The controller used is ATMEGA328 with a 16MHz crystal. 
 	
 	To use this library #include “apa102_led.h”
 	
