@@ -47,6 +47,7 @@ int main(void)
 	
 	while (1) 
     {
+/* led.set_strip(array2) */ //use of function for strip object
 		led.set_color(255,0,0);
 		_delay_ms(1000);
 		led.clear();
